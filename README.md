@@ -36,3 +36,5 @@ Esse projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 <!--END_SECTION:footer-->
 
+npx expo prebuild
+npx expo run:android
